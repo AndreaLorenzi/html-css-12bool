@@ -88,3 +88,40 @@
 .col-offset-12{
     margin-left: calc((100% / 12 ) * 12);
 }
+/* naked col */
+.naked-col-1{
+    flex-basis: calc((100% / 12 ) * 1);
+}
+.naked-col-2{
+    flex-basis: calc((100% / 12 ) * 2);
+}
+.naked-col-3{
+    flex-basis: calc((100% / 12 ) * 3);
+}
+.naked-col-4{
+    flex-basis: calc((100% / 12 ) * 4);
+}
+.naked-col-5{
+    flex-basis: calc((100% / 12 ) * 5);
+}
+.naked-col-6{
+    flex-basis: calc((100% / 12 ) * 6);
+}
+.naked-col-7{
+    flex-basis: calc((100% / 12 ) * 7);
+}
+.naked-col-8{
+    flex-basis: calc((100% / 12 ) * 8);
+}
+.naked-col-9{
+    flex-basis: calc((100% / 12 ) * 9);
+}
+.naked-col-10{
+    flex-basis: calc((100% / 12 ) * 10);
+}
+.naked-col-11{
+    flex-basis: calc((100% / 12 ) * 11);
+}
+.naked-col-12{
+    flex-basis: calc((100% / 12 ) * 1)2;
+}

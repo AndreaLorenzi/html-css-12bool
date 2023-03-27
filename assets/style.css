@@ -10,3 +10,14 @@
     align-items: center;
     color: white;
 }
+.nested{
+    height: 40px;
+    background-color: green;
+    border: 1px solid blue;
+
+}
+.row-nested{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
