@@ -1,7 +1,10 @@
 [class*="col-"]{
-    height: 200px;
+    height: 50px;
     background-color: blue;
-    border: 5px solid white;
+    border: 1px solid white;
+}
+.contents{
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
